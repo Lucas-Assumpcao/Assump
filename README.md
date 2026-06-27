@@ -1,4 +1,4 @@
-x # 🤖 Chatbot Telegram + Azure AI Foundry
+# 🤖 Chatbot Telegram + Azure AI Foundry
 
 Bot do Telegram que conversa com um **Agent** criado no **Azure AI Foundry (Agent Service)**, usando Node.js e a biblioteca [Telegraf.js](https://telegraf.js.org/).
 
